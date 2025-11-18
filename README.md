@@ -51,6 +51,8 @@ a.   KVL:
 
 b.  KCL:
 ![KCL](https://github.com/user-attachments/assets/ab3f340b-74a5-4c93-ab59-15f4453e3908)
+<img width="1098" height="500" alt="Screenshot 2025-11-18 150128" src="https://github.com/user-attachments/assets/edca444c-d9d2-482e-8599-f27bdcba8130" />
+
 
  
 
@@ -64,6 +66,8 @@ a.   KVL:
 
 
 b.  KCL:
+![WhatsApp Image 2025-11-18 at 15 01 56_765eadd0](https://github.com/user-attachments/assets/4c364864-5230-40d9-8297-ca32b72d1718)
+
 
 
 
@@ -78,6 +82,8 @@ a.   KVL:
 
 
 b.  KCL:
+![WhatsApp Image 2025-11-18 at 15 04 09_aedb3977](https://github.com/user-attachments/assets/65852da8-ccd1-477a-a9a9-31390c44e8c6)
+
 
 
 
